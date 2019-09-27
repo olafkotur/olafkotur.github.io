@@ -1,7 +1,5 @@
 Go back to [Home](index.md)
 
-<br>
-
 ## Legacy
 This was a project that my flatmate and I decided to start - we didn't really get anywhere far with it however, I would say that this was the most important project out of them all. When starting University I didn't know how to code at all, so when starting this project only a 2-3 months into my course was a challenge.
 

@@ -1,4 +1,4 @@
-> **Note:** I liked the idea of making this site using Markdown, mostly because of the little amount of time it takes to set it up. You're gonna have to be okay with the basic functionalities.
+> **Note:** Not a portfolio, not a blog, but somewhere in between...
 
 <br>
 

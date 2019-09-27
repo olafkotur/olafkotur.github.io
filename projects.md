@@ -1,6 +1,6 @@
-# Projects
+Go back to [Home](index.md)
 
-Go back [Home](index.md)
+<br>
 
 ## Legacy
 This was a project that my flatmate and I decided to start - we didn't really get anywhere far with it however, I would say that this was the most important project out of them all. When starting University I didn't know how to code at all, so when starting this project only a 2-3 months into my course was a challenge.
@@ -13,6 +13,7 @@ Few months went by and we had a very basic login screen with an even more basic 
 
 **Learning**: We rushed into product development rather quickly without exploring all options. For this reason we got overwhelmed when needing to change a certain feature as the requirements have changed through research. This eventually made us step backwards many times during the process and got very little done, instead we were stuck in conversations as we had no idea what to do.
 
+<br>
 
 ## Annonymous
 This was the first paid project that I had landed, purely by mistake involving a tipsy conversation in a bar. This was a simple application aimed to be released for iPads - the idea was for the user to be able to take a photo of themselves (like a photo-booth) and then have the option to send it to themselves by email. I liked the idea, and it was an opportunity to earn some extra money in my first year of university - perfect.
@@ -29,6 +30,7 @@ P.S. I didn't want to harm the company's image as since sharing my experience wi
 
 **Learning:** I assumed that everything will run smoothly, things will be on time and that's it. This wasn't the case and I find this is never the case, I should've took this into account in terms of timing and the amount I charged for the project - when I roughly worked out how much I made per hour it was something close to £1.50...
 
+<br>
 
 ## Pyro
 This was a very fun project to do with nightlife - it allowed people to store points at each valid club or bar and then claim them for drinks. These conversations held place during the end of my first year at university so this sounded great to me. I loved working with the founders for this project as they were very understanding letting me start in September even though we signed everything in June.

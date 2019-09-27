@@ -1,3 +1,7 @@
+---
+title: Projects
+---
+
 Go back to [Home](index.md)
 
 ## Legacy

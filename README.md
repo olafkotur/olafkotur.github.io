@@ -1,5 +1,8 @@
-# Olaf Kotur - Github Pages
+# Olaf Kotur - Github Page
 
-Easy way to dump some of my thoughts about the things that I have done, the aim of this is to be able to reflect on previous projects and past experiences. 
+## Why?
+Redirects to my public Notion page with content that I'm happy to share with others; some things I just think should be accessible by others too.
 
-I'm happy for anyone to read these.
+## Doggo?
+Yes - https://olafkotur.github.io/doggo/
+
